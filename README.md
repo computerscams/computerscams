@@ -1,16 +1,14 @@
-## Hi there 👋
+### 🛡️ Computer Scams
 
-<!--
-**computerscams/computerscams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free tools to check emails, websites, and passwords for scams — no signup required.
 
-Here are some ideas to get you started:
+🔗 **[computerscams.com](https://computerscams.com)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 AI-powered email scam checker
+- 🌐 Website safety checker (Google Safe Browsing)
+- 🔓 Breached password checker
+- 💪 Password strength tester
+- 📬 Temporary email generator
+- ...and more tools on the way
+
+We also publish daily articles covering current scam news, phishing tactics, and cybersecurity education to help everyday people stay safe online.
